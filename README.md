@@ -49,7 +49,7 @@ _[Reaper](https://dsc.gg/reaper-bot) is a brand new Hungarian discord bot with 7
 
 _[ReHost](https://rehost.hu) is a new, lesser known hosting. Give him a chance!_
 
--> **Wolrd of Kingdom War**
+-> **World of Kingdom War**
 
 (This minecraft mod is currently not ready yet)
 
