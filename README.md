@@ -28,21 +28,21 @@ I work with these tools and programming languages:
 
 ## 🗂️ My Projects 
 
-**Tiger**
+     _____**Tiger**____
 
-[Tiger](https://discord.tigerweb.hu) is a multifunctional Hungarian discord bot
+[Tiger](https://discord.tigerweb.hu) is a multifunctional Hungarian discord bot with more than 215 servers.
 
-**Reaper**
+    _____**Reaper**_____
 
 [Reaper](https://dsc.gg/reaper-bot) is a brand new Hungarian discord bot with 70+ commands
 
-**ReHost**
+    _____**ReHost**_____
 
 [ReHost](https://rehost.hu) is a new, lesser known hosting. Give him a chance!
 
-**Wolrd of Kingdom War**
+_____**Wolrd of Kingdom War**____
 
-(This mod is currently not ready yet)
+(This minecraft mod is currently not ready yet)
 
 This is a HUGE Minecraft mod that will completely change the game. New mobs, kingdoms, unique abilities, beautiful graphics and everything you can imagine! 🔥 
 
