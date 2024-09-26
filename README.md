@@ -4,7 +4,7 @@ Hi! I'm so glad you found my profile! Here's what you need to know about me:
 
 ## 👤 About Me
 
-I am from Hungary 🇭🇺 and i am currently studying in Austria, I am interested in everything related to law. My favorite artist: [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG?si=m_zX9nJsT6WLyftH5jaOrw) 🎸 I have been programming as a hobby for 5 years now, and I also swim in my spare time 🏊
+I am from Hungary 🇭🇺 and i am currently studying in Austria, I am interested in everything related to law. My favorite artist: [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG?si=m_zX9nJsT6WLyftH5jaOrw) 🎸 I have been programming as a hobby for 5 years now.
 I speak Hungarian, German and English 🗣️
 
 ## 🛠️ Tools & Languages
